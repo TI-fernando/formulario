@@ -1,0 +1,13 @@
+body {
+    background-image: url(../img/bg-repeat.jpg);
+    background-size: contain;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFF;
+    gap: 60px;
+}

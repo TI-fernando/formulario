@@ -1,6 +1,6 @@
 # Formulário com Validação
 
-Este é um projeto de um **formulário com validação em JavaScript puro**. Ele valida se todos os campos obrigatórios foram preenchidos antes de enviar os dados.
+Este é um projeto de um **formulário com validação em JavaScript puro**, proposto pelo pessoal do curso DevEmDobro. Ele valida se todos os campos obrigatórios foram preenchidos antes de enviar os dados.
 
 ## Tecnologias Utilizadas
 

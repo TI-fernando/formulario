@@ -50,11 +50,7 @@ O JavaScript adiciona classes CSS aos campos conforme a validação:
 4. Envie para o branch principal (`git push origin minha-feature`)
 5. Abra um Pull Request
 
-## Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com ❤️ por [Fernando Henrique](https://github.com/TI-fernando)
 
